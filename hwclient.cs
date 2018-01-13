@@ -12,12 +12,13 @@ namespace Examples
 	{
 		public static void Main(string[] args)
 		{
-			//
-			// Hello World client dkj changes 1
+            //
+            // Hello World client dkj changes 1
             // dkj changes 2
-			//
- 
-			if (args == null || args.Length < 1)
+            // dkj changes 3
+            //
+
+            if (args == null || args.Length < 1)
 			{
 				Console.WriteLine();
 				Console.WriteLine("Usage: ./{0} HWClient [Endpoint]", AppDomain.CurrentDomain.FriendlyName);
