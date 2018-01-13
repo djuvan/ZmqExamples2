@@ -16,7 +16,8 @@ namespace Examples
             // Hello World client dkj changes 1
             // dkj changes 2
             // dkj changes 3
-            //
+            // dkj changes 4
+            //  dkj amend change to commit 4
 
             if (args == null || args.Length < 1)
 			{
