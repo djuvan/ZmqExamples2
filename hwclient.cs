@@ -18,7 +18,7 @@ namespace Examples
             // dkj changes 3
             // dkj changes 4
             // dkj amend change to commit 4
-            // dkj changes 5 - amended change
+            // dkj changes 5
 
 
             if (args == null || args.Length < 1)
