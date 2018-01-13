@@ -13,11 +13,9 @@ namespace Examples
 		public static void Main(string[] args)
 		{
 			//
-			// Hello World client
+			// Hello World client dkj changes 1
 			//
-			// Author: metadings
-			//
-
+ 
 			if (args == null || args.Length < 1)
 			{
 				Console.WriteLine();
